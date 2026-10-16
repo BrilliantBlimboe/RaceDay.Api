@@ -1,3 +1,6 @@
+<img width="1365" height="767" alt="Screenshot 2026-10-16 162217" src="https://github.com/user-attachments/assets/71ae2583-dcba-4fea-9d9d-e86f2ddf8082" />
+<img width="1365" height="767" alt="Screenshot 2026-10-16 153155" src="https://github.com/user-attachments/assets/71d70a69-9e40-4821-b217-8181c4d1bf39" />
+<img width="1365" height="767" alt="Screenshot 2026-10-16 153125" src="https://github.com/user-attachments/assets/4f9d9f7c-33f6-469c-a8ef-1d0480016438" />
 # RaceDay.Api
 
 RESTful API for managing race events, enrolments, and results. Built with ASP.NET Core and Entity Framework.
